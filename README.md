@@ -1,0 +1,2 @@
+# Techne
+manager skills
