@@ -3,7 +3,7 @@ name: sketchnote-imagegen
 description: Summarize longform articles into image-generation briefs for sketchnote-style visual notes. Use when is asked to read an article, markdown post, draft, or URL and create or prepare a matching illustration, cover image, article summary image, visual note, whiteboard note, or image prompt in a sketchnote / marker / light watercolor style.
 ---
 
-# Article Sketchnote Image
+# Sketchnote Imagegen
 
 ## Purpose
 
