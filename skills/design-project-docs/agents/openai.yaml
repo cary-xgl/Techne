@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Project Docs"
+  short_description: "Design AGENTS.md and README.md through guided interviews."
+  default_prompt: "Use $design-project-docs to interview me and draft AGENTS.md plus README.md for this project."
